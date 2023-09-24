@@ -40,6 +40,26 @@
     }
   },
   {
+    "version": "1.20.2",
+    "protocol": 764,
+    "ip": [
+      "176.57.148.124",
+      25565
+    ],
+    "players": [],
+    "favicon": "",
+    "motd": {
+      "text": "Lions Kings e-Sports Community",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "extra": []
+    }
+  },
+  {
     "version": "PandaSpigot 1.8.8",
     "protocol": 47,
     "ip": [
